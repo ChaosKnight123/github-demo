@@ -9,7 +9,7 @@
  
     <body>
  
-        <a href="https://www.facebook.com/dialog/oauth?client_id=509011619175617&redirect_uri=http://localhost/fblogin/callback.php&scope=public_profile"><img src="facebook-sign-in.png"/></a>
+        <a href="https://www.facebook.com/dialog/oauth?client_id=114791355846445&redirect_uri=chaosknight123.github.io/news&scope=public_profile"><img src="facebook-sign-in.png"/></a>
  
     </body>
  
