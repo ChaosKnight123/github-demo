@@ -1,9 +1,9 @@
 <?php
     session_start();
     
-    $app_id = "509011619175617";
-    $app_secret = "226491c9633bf31817077cfde437fe0d";
-    $redirect_uri = urlencode("http://localhost/fblogin/callback.php");    
+    $app_id = "114791355846445";
+    $app_secret = "011821616aa3f505738cb09e3e901f81";
+    $redirect_uri = urlencode("chaosknight123.github.io/news");    
     
     // Get code value
     $code = $_GET['code'];
